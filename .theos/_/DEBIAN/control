@@ -1,0 +1,11 @@
+Package: com.nalticed.allmailxs
+Name: AllMailXS
+Description: A simple tweak that's allow to delete and move all mail!
+Priority: optional
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Maintainer: mr Yacine <djaminf@hotmail.fr>
+Author: mr Yacine <djaminf@hotmail.fr>
+Version: 1.1-1+debug
+Installed-Size: 140
